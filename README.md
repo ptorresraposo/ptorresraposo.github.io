@@ -1,10 +1,8 @@
 # Patricio Torres Raposo - Econometrics and Finance
 
-You can contact me at [patotorres@gmail.com](mailto:patotorres@gmail.com) and conect with me at my [linkdedin page](https://www.linkedin.com/in/ptorresraposo/) 
+You can contact me at [patotorres@gmail.com](mailto:patotorres@gmail.com) and conect with me at my [linkdedin page](https://www.linkedin.com/in/ptorresraposo/).
 
 ### Markdown
-
-texr
 
 ```markdown
 Syntax highlighted code block
